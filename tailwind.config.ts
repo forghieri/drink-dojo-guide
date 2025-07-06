@@ -52,6 +52,23 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom cocktail theme colors
+				tropical: {
+					DEFAULT: 'hsl(var(--tropical))',
+					foreground: 'hsl(var(--tropical-foreground))'
+				},
+				sunset: {
+					DEFAULT: 'hsl(var(--sunset))',
+					foreground: 'hsl(var(--sunset-foreground))'
+				},
+				berry: {
+					DEFAULT: 'hsl(var(--berry))',
+					foreground: 'hsl(var(--berry-foreground))'
+				},
+				citrus: {
+					DEFAULT: 'hsl(var(--citrus))',
+					foreground: 'hsl(var(--citrus-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -67,6 +84,17 @@ export default {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
+			},
+			backgroundImage: {
+				'gradient-tropical': 'var(--gradient-tropical)',
+				'gradient-sunset': 'var(--gradient-sunset)',
+				'gradient-berry': 'var(--gradient-berry)',
+				'gradient-hero': 'var(--gradient-hero)'
+			},
+			boxShadow: {
+				'glow': 'var(--shadow-glow)',
+				'card': 'var(--shadow-card)',
+				'intense': 'var(--shadow-intense)'
 			},
 			keyframes: {
 				'accordion-down': {
