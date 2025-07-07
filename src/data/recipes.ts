@@ -130,7 +130,7 @@ export const recipes = [
   {
     id: "6",
     name: "Margarita de Manga",
-    image: "https://images.unsplash.com/photo-1630568836815-4d80649d4304?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://images.ctfassets.net/qfxflpv0atz9/5laUqr3VzDFm9uiU4JcON3/f2f794676f4a4aa1fb9349926847a999/20240130152627-MargaritasDeManga-1.png",
     category: "Tropical",
     difficulty: "Difícil",
     time: "10 min",
@@ -157,7 +157,7 @@ export const recipes = [
   {
     id: "7",
     name: "Cosmopolitan",
-    image: "https://images.unsplash.com/photo-1563227812-8b1c0b118b24?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://media.istockphoto.com/id/469525437/pt/foto/cosmopolita-martini.jpg?s=612x612&w=0&k=20&c=1YXonGwjtiE6dc2WSCz8_YNlMz8aw2ILjDCYbPmqs6I=",
     category: "Clássico",
     difficulty: "Médio",
     time: "5 min",
@@ -181,7 +181,7 @@ export const recipes = [
   {
     id: "8",
     name: "Daiquiri de Morango",
-    image: "https://images.unsplash.com/photo-1592216399556-3e9f1c7b3e8e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://mestredosdrinks.com/wp-content/uploads/2021/12/Daiquiri-com-Morango-A-Melhor-Variacao-do-Classico-Cubano-Muito-Saboroso-1.jpg",
     category: "Tropical",
     difficulty: "Médio",
     time: "7 min",
@@ -205,7 +205,7 @@ export const recipes = [
   {
     id: "9",
     name: "Negroni",
-    image: "https://images.unsplash.com/photo-1584967606560-4a4393c4c9e7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://api.baraberto.com.br/wp-content/uploads/2023/04/receita-negroni-01-scaled.webp",
     category: "Clássico",
     difficulty: "Fácil",
     time: "3 min",
@@ -251,7 +251,7 @@ export const recipes = [
   {
     id: "11",
     name: "Moscow Mule",
-    image: "https://images.unsplash.com/photo-1586960043714-7659b3f6e2b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://static.itdg.com.br/images/640-440/c792628a557f1d8c56150877cdcc38b3/365864-original.jpg",
     category: "Clássico",
     difficulty: "Fácil",
     time: "5 min",
@@ -274,7 +274,7 @@ export const recipes = [
   {
     id: "12",
     name: "Caipirinha de Maracujá",
-    image: "https://images.unsplash.com/photo-1626461593731-832d2f3a36e2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://amoreceita.com.br/storage/2019/04/receita-de-caipirinha-de-maracuja.jpg",
     category: "Clássico",
     difficulty: "Fácil",
     time: "5 min",
@@ -298,7 +298,7 @@ export const recipes = [
   {
     id: "13",
     name: "Dark 'n' Stormy",
-    image: "https://images.unsplash.com/photo-1595975092585-2f8a4d444f3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://www.tastingtable.com/img/gallery/dark-and-stormy-cocktail-recipe/l-intro-1670940097.jpg",
     category: "Clássico",
     difficulty: "Fácil",
     time: "5 min",
@@ -370,7 +370,7 @@ export const recipes = [
   {
     id: "16",
     name: "Caipiroska de Framboesa",
-    image: "https://images.unsplash.com/photo-1609951651556-6b2a66348d44?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://blog.experimentebegin.com.br/wp-content/uploads/2023/12/caipirinha-de-frutas-vermelhas-1-653a9b8026bdb1.webp",
     category: "Clássico",
     difficulty: "Fácil",
     time: "5 min",
@@ -393,7 +393,7 @@ export const recipes = [
   {
     id: "17",
     name: "Tequila Sunrise",
-    image: "https://images.unsplash.com/photo-1509660933844-6910e127e6c8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://www.eatclub.de/wp-content/uploads/2021/11/Tequila-Sunrise-1.jpg",
     category: "Tropical",
     difficulty: "Fácil",
     time: "5 min",
@@ -441,7 +441,7 @@ export const recipes = [
   {
     id: "19",
     name: "Old Fashioned",
-    image: "https://images.unsplash.com/photo-1595975092585-2f8a4d444f3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpQy2ote9eHXsvEQ02KyoC-074pfZtY_LdkL2ilNlYs8budDne6m1QOgx7cUcF7mVxc8&usqp=CAU",
     category: "Clássico",
     difficulty: "Médio",
     time: "5 min",
@@ -465,7 +465,7 @@ export const recipes = [
   {
     id: "20",
     name: "Blue Lagoon",
-    image: "https://images.unsplash.com/photo-1609951651556-6b2a66348d44?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://mestredosdrinks.com/wp-content/uploads/2023/11/A-Origem-do-Drink-Blue-Lagoon.jpg",
     category: "Tropical",
     difficulty: "Fácil",
     time: "6 min",
@@ -513,7 +513,7 @@ export const recipes = [
   {
     id: "22",
     name: "Whiskey Sour",
-    image: "https://images.unsplash.com/photo-1595975092585-2f8a4d444f3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSa1SeQCVh7jXSN7ZhtibQk-e4GgNVE6eO5LP5Y1GPvNS9iMgaxT9F58_wNK0Q3-dGko&usqp=CAU",
     category: "Clássico",
     difficulty: "Médio",
     time: "6 min",
@@ -538,7 +538,7 @@ export const recipes = [
   {
     id: "23",
     name: "Mango Mule",
-    image: "https://images.unsplash.com/photo-1591189238148-53e3421a7c3a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://pinklotus.com/wp-content/uploads/2020/08/plpu-cancer-kicking-kitchen-mango-mule.jpg",
     category: "Tropical",
     difficulty: "Fácil",
     time: "5 min",
@@ -587,7 +587,7 @@ export const recipes = [
   {
     id: "25",
     name: "Aperol Spritz",
-    image: "https://images.unsplash.com/photo-1509660933844-6910e127e6c8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://www.veridiana.com.br/imagens/produtos/05-bebidas/01-drinks/img_3995.jpg",
     category: "Clássico",
     difficulty: "Fácil",
     time: "3 min",
@@ -610,7 +610,7 @@ export const recipes = [
   {
     id: "26",
     name: "Caipirinha de Limão Siciliano",
-    image: "https://images.unsplash.com/photo-1626461593731-832d2f3a36e2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://content.paodeacucar.com/wp-content/uploads/2019/02/caipirinha-de-lim%C3%A3o-siciliano-texto.jpg",
     category: "Clássico",
     difficulty: "Fácil",
     time: "5 min",
@@ -633,7 +633,7 @@ export const recipes = [
   {
     id: "27",
     name: "Paloma",
-    image: "https://images.unsplash.com/photo-1595975092585-2f8a4d444f3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://hips.hearstapps.com/hmg-prod/images/frozen-paloma-secondary-6644d93657b00.jpg?crop=1xw:1xh;center,top&resize=980:*",
     category: "Tropical",
     difficulty: "Fácil",
     time: "5 min",
@@ -682,7 +682,7 @@ export const recipes = [
   {
     id: "29",
     name: "Gin Tônica",
-    image: "https://images.unsplash.com/photo-1586960043714-7659b3f6e2b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://www.bullhof.com.br/cdn/shop/articles/3_1200x1200.png?v=1636491023",
     category: "Clássico",
     difficulty: "Fácil",
     time: "3 min",
@@ -704,7 +704,7 @@ export const recipes = [
   {
     id: "30",
     name: "Mojito de Melancia",
-    image: "https://images.unsplash.com/photo-1591189238148-53e3421a7c3a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://static.itdg.com.br/images/640-auto/dec4a5a5ff447c0640dd0e07fbd5a0bf/shutterstock-2411302027.jpg",
     category: "Tropical",
     difficulty: "Médio",
     time: "7 min",
@@ -731,7 +731,7 @@ export const recipes = [
   {
     id: "31",
     name: "Mai Tai",
-    image: "https://images.unsplash.com/photo-1609951651556-6b2a66348d44?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2021/05/mai-tai.jpg",
     category: "Tropical",
     difficulty: "Médio",
     time: "7 min",
@@ -782,7 +782,7 @@ export const recipes = [
   {
     id: "33",
     name: "Bloody Mary",
-    image: "https://images.unsplash.com/photo-1595975092585-2f8a4d444f3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://images.getrecipekit.com/20220815024926-bloody-mary-how-to-make.png?aspect_ratio=4:3&quality=90&",
     category: "Clássico",
     difficulty: "Médio",
     time: "7 min",
@@ -808,7 +808,7 @@ export const recipes = [
   {
     id: "34",
     name: "Pisco Sour",
-    image: "https://images.unsplash.com/photo-1586960043714-7659b3f6e2b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&h=300&fit=crop&bg=black",
+    image: "https://freewalkingtoursperu.com/wp-content/uploads/2024/01/pisco-sour-bebida-peru_9-1.webp",
     category: "Clássico",
     difficulty: "Médio",
     time: "7 min",
