@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: 'v_drinks',
   webDir: 'dist',
   server: {
-    url: 'https://030ffd0c-c9c8-4e02-a25b-4ddb749c9556.lovableproject.com?forceHideBadge=true',
+    url: 'https://drink-dojo-guide.lovable.app/',
     cleartext: true
   },
   plugins: {
