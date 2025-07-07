@@ -757,7 +757,7 @@ export const recipes = [
   {
     id: "32",
     name: "Virgin Citrus Punch",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoI5_OIqo1jEFX0Wno6RDkDOZewibhU52BvGvUugozfAdpeH4DBVSXHAH3XCmbB443Z0&usqp=CAU",
+    image: "https://www.somewhatsimple.com/wp-content/uploads/2019/04/sangria_punch_1.jpg",
     category: "Sem Álcool",
     difficulty: "Fácil",
     time: "5 min",
