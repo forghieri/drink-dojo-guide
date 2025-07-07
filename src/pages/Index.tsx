@@ -8,19 +8,7 @@ import { SearchFilters } from "@/components/SearchFilters";
 import { recipes } from "@/data/recipes";
 import heroImage from "@/assets/hero-cocktails.jpg";
 import { Search, Sparkles } from "lucide-react";
-
-interface Recipe {
-  id: string;
-  name: string;
-  image: string;
-  category: string;
-  difficulty: "Fácil" | "Médio" | "Difícil";
-  time: string;
-  servings: number;
-  ingredients: string[];
-  instructions: string[];
-  description: string;
-}
+import { Recipe } from "@/types/recipe";
 
 const Index = () => {
   const [selectedRecipe, setSelectedRecipe] = useState<Recipe | null>(null);

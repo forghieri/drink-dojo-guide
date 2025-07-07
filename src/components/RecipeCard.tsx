@@ -3,19 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Heart, Clock, Users } from "lucide-react";
 import { useState } from "react";
-
-interface Recipe {
-  id: string;
-  name: string;
-  image: string;
-  category: string;
-  difficulty: "Fácil" | "Médio" | "Difícil";
-  time: string;
-  servings: number;
-  ingredients: string[];
-  instructions: string[];
-  description: string;
-}
+import { Recipe } from "@/types/recipe";
 
 interface RecipeCardProps {
   recipe: Recipe;
