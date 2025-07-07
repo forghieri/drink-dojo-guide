@@ -92,16 +92,16 @@ export const RecipeCard = ({ recipe, onViewRecipe }: RecipeCardProps) => {
           </p>
         </div>
 
-        <div className="flex items-center gap-4 text-sm text-muted-foreground">
-          <div className="flex items-center gap-1">
-            <Clock className="h-4 w-4" />
-            <span>{recipe.time}</span>
-          </div>
-          <div className="flex items-center gap-1">
-            <Users className="h-4 w-4" />
-            <span>{recipe.servings} porção{recipe.servings > 1 ? "s" : ""}</span>
-          </div>
+      <div className="flex items-center gap-4 text-sm text-muted-foreground">
+        <div className="flex items-center gap-1">
+          <Clock className="h-4 w-4" />
+          <span>{recipe.time}</span>
         </div>
+        <div className="flex items-center gap-1">
+          <Users className="h-4 w-4" />
+          <span>{recipe.servings} {recipe.servings > 1 ? "porções" : "porção"}</span>
+        </div>
+      </div>
 
         <Button 
           onClick={() => onViewRecipe(recipe)}

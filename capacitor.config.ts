@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.030ffd0cc9c84e02a25b4ddb749c9556',
-  appName: 'drink-dojo-guide',
+  appId: 'com.example.appmobiledrinks',
+  appName: 'v_drinks',
   webDir: 'dist',
   server: {
     url: 'https://030ffd0c-c9c8-4e02-a25b-4ddb749c9556.lovableproject.com?forceHideBadge=true',
